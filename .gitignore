@@ -1,0 +1,14 @@
+﻿.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+.DS_Store
+*.zip
+data/
+*.empty-file-backup
+notebooks/outputs/tables/final_buyer_segmentation.csv
+!notebooks/outputs/final_project_package/tables/final_buyer_segmentation.csv

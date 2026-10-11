@@ -1,0 +1,4 @@
+﻿segment_role,buyer_count,buyer_percentage,total_investment,average_property_value,transaction_count,unique_properties,days_since_last_transaction,satisfaction_score,investment_per_sqft
+Developing Buyers,20,33.33,57795231,2444543.38,27,24,370.7,4.05,2204.86
+High-Value Buyers,20,33.33,288318734,4175353.93,82,52,343.35,3.65,12856.21
+Growth-Potential Buyers,20,33.33,131338872,2909795.16,54,34,388.75,3.8,4759.21
